@@ -1,5 +1,6 @@
-## Autonomous Drone
+# Autonomous Drone
 
+## GPS checkpoint based autonomous with Local planner to avoid obsctavles like trees.
 
 https://github.com/AnshShah3009/AutonomousDrone/assets/42163109/e2c4be16-11c9-4b5d-a830-216edfd1ec9f
 <p float="left">
